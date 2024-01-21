@@ -1,4 +1,4 @@
-#  plunderkrugs.com
+# plunderkrugs.com
 
 ## To install dependencies:
 

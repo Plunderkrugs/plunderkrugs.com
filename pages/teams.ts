@@ -8,6 +8,8 @@ const filters = [
 	"Marketing",
 	"Sound Design",
 	"Illustration",
+	"UX/UI",
+	"VFX",
 	"Game Design",
 	"Leads",
 	"Producer",
